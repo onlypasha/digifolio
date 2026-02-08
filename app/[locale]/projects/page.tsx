@@ -24,6 +24,15 @@ export default function Projects() {
             image: "/images/kadokey.png",
             externallinks: "https://kadokey.vercel.app/",
             color: "from-blue-500/20 to-cyan-500/20"
+        },
+        {
+            id: 3,
+            title: "TorMonitorUangKas Monitoring Uang Kas",
+            category: "Web App",
+            descriptionKey: "project3Desc",
+            image: "/images/tormonitoruangkas.png",
+            externallinks: "https://github.com/onlypasha/tormonitoruangkas",
+            color: "from-blue-500/20 to-cyan-500/20"
         }
     ];
 

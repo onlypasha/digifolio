@@ -40,7 +40,8 @@
         "description": "From local business solutions to system tools.",
         "year": "2026",
         "project1Desc": "My personal corner on the web. Built with Next.js, Framer Motion, and Internationalization.",
-        "project2Desc": "A warm and responsive landing page for KadoKey souvenir store. My first deployed freelance project helping a local business go digital."
+        "project2Desc": "A warm and responsive landing page for KadoKey souvenir store. My first deployed freelance project helping a local business go digital.",
+        "project3Desc": "A cash fund monitoring application that simplifies financial recording and transparency."
     },
     "Contact": {
         "title": "Let's \n<highlight>Collaborate.</highlight>",

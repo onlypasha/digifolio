@@ -40,7 +40,8 @@
         "description": "Dari solusi bisnis lokal, aplikasi sistem hingga eksperimen saya sendiri.",
         "year": "2026",
         "project1Desc": "Sudut digital pribadi saya. Dibangun dengan Next.js, Framer Motion, dan Internasionalisasi.",
-        "project2Desc": "Landing page yang hangat dan responsif untuk toko souvenir KadoKey. Proyek freelance pertama saya membantu bisnis lokal Go Digital."
+        "project2Desc": "Landing page yang hangat dan responsif untuk toko souvenir KadoKey. Proyek freelance pertama saya membantu bisnis lokal Go Digital.",
+        "project3Desc": "Aplikasi monitoring uang kas yang memudahkan pencatatan dan transparansi keuangan."
     },
     "Contact": {
         "title": "Mari \n<highlight>Berkolaborasi.</highlight>",

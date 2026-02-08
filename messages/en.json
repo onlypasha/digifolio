@@ -1,0 +1,60 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "projects": "Projects",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "Home": {
+        "headerSubtitle": "Student & Developer",
+        "available": "Open for Freelance",
+        "heroTitle": "Building Secure & \n<highlight>Modern Web.</highlight>",
+        "location": "Jakarta, ID",
+        "aboutTitle": "About Me",
+        "aboutDesc": "My Journey",
+        "projectsTitle": "Selected Works",
+        "projectsDesc": "Real-world projects and coding experiments.",
+        "contactTitle": "Contact",
+        "contactAction": "Let's Connect",
+        "techStack": "My Skills",
+        "cleanCodeTitle": "Code Quality",
+        "cleanCodeDesc": "Writing clean, efficient, and secure code is my priority.",
+        "modernStack": "Modern Tech"
+    },
+    "About": {
+        "badge": "Who am I?",
+        "titlePrefix": "A student developer interested in \n",
+        "titleHighlight": "Web & Cybersecurity.",
+        "description": "I am currently a student at SMKN 17 Jakarta. Unlike typical developers, I view code through two lenses: building creative features and securing them. On the other hand, I also like hiking mountains or brewing Arabica coffee.",
+        "engineeringTitle": "Technical Skills",
+        "engineeringDesc": "Focusing on the modern web with Next.js and Tailwind CSS, while sharpening my logic with Python and ASP.NET. I love automating tasks and building practical tools.",
+        "designTitle": "Design & UX",
+        "designDesc": "I believe good software must be usable. I pay attention to responsiveness and clean layouts to ensure every user enjoys the experience.",
+        "philosophyTitle": "Interests",
+        "philosophyDesc": "Deeply interested in Penetration Testing, Web and Mobile. I am constantly learning how to make the web a safer place.",
+        "recognitionTitle": "Current Status",
+        "recognitionList": "<li>• Vocational Student (XI Grade)</li><li>• Active CTF Player</li><li>• Building Web & POS Projects</li>"
+    },
+    "Projects": {
+        "title": "Selected <highlight>Works</highlight>",
+        "description": "From local business solutions to system tools.",
+        "year": "2026",
+        "project1Desc": "My personal corner on the web. Built with Next.js, Framer Motion, and Internationalization.",
+        "project2Desc": "A warm and responsive landing page for KadoKey souvenir store. My first deployed freelance project helping a local business go digital."
+    },
+    "Contact": {
+        "title": "Let's \n<highlight>Collaborate.</highlight>",
+        "subtitle": "Have a project idea or just want to discuss tech? I'm always open to new opportunities.",
+        "emailLabel": "Email",
+        "phoneLabel": "Phone",
+        "locationLabel": "Base",
+        "locationValue": "West Jakarta, Indonesia",
+        "formName": "Name",
+        "formEmail": "Email",
+        "formMessage": "Message",
+        "sendButton": "Send Message",
+        "namePlaceholder": "Your Name",
+        "emailPlaceholder": "name@example.com",
+        "messagePlaceholder": "Hi Henry, I need a website for..."
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "Navbar": {
+        "home": "Beranda",
+        "projects": "Proyek",
+        "about": "Tentang",
+        "contact": "Kontak"
+    },
+    "Home": {
+        "headerSubtitle": "Siswa & Developer",
+        "available": "Buka Jasa Freelance",
+        "heroTitle": "Membangun Web yang \n<highlight>Aman & Modern.</highlight>",
+        "location": "Jakarta, ID",
+        "aboutTitle": "Tentang Saya",
+        "aboutDesc": "Perjalanan Saya",
+        "projectsTitle": "Proyek Pilihan",
+        "projectsDesc": "Proyek dunia nyata dan eksperimen koding.",
+        "contactTitle": "Kontak",
+        "contactAction": "Mari Terhubung",
+        "techStack": "Keterampilan Saya",
+        "cleanCodeTitle": "Kualitas Kode",
+        "cleanCodeDesc": "Menulis kode yang rapi, efisien, dan aman adalah prioritas saya.",
+        "modernStack": "Teknologi Modern"
+    },
+    "About": {
+        "badge": "Siapa Saya?",
+        "titlePrefix": "Siswa developer \nyang tertarik pada \n",
+        "titleHighlight": "Web & Keamanan Siber.",
+        "description": "Saat ini saya menjadi siswa di SMKN 17 Jakarta. Tidak seperti developer biasa, saya melihat kode dari dua sisi: membangun dan mengamankannya. Disisi lain saya juga suka mendaki gunung atau menyeduh kopi Arabika.",
+        "engineeringTitle": "Keahlian Teknis",
+        "engineeringDesc": "Fokus pada web modern dengan Next.js dan Tailwind CSS, sembari mengasah logika dengan Python dan ASP.NET. Saya suka membuat otomatisasi dan alat yang praktis.",
+        "designTitle": "Desain & UX",
+        "designDesc": "Saya percaya software yang bagus itu harus mudah dipakai. Saya memperhatikan responsivitas dan tata letak yang bersih agar pengguna nyaman.",
+        "philosophyTitle": "Minat",
+        "philosophyDesc": "Sangat tertarik pada Penetration Testing, Web dan Mobile. Saya terus belajar cara membuat web menjadi tempat yang lebih aman.",
+        "recognitionTitle": "Status Saat Ini",
+        "recognitionList": "<li>• Siswa SMK (Kelas 11)</li><li>• Pemain CTF Aktif</li><li>• Membangun Proyek Web & POS</li>"
+    },
+    "Projects": {
+        "title": "Proyek <highlight>Pilihan</highlight>",
+        "description": "Dari solusi bisnis lokal, aplikasi sistem hingga eksperimen saya sendiri.",
+        "year": "2026",
+        "project1Desc": "Sudut digital pribadi saya. Dibangun dengan Next.js, Framer Motion, dan Internasionalisasi.",
+        "project2Desc": "Landing page yang hangat dan responsif untuk toko souvenir KadoKey. Proyek freelance pertama saya membantu bisnis lokal Go Digital."
+    },
+    "Contact": {
+        "title": "Mari \n<highlight>Berkolaborasi.</highlight>",
+        "subtitle": "Punya ide proyek atau sekadar ingin diskusi teknologi? Saya selalu terbuka untuk peluang baru.",
+        "emailLabel": "Email",
+        "phoneLabel": "Telepon",
+        "locationLabel": "Basis",
+        "locationValue": "Jakarta Barat, Indonesia",
+        "formName": "Nama",
+        "formEmail": "Email",
+        "formMessage": "Pesan",
+        "sendButton": "Kirim Pesan",
+        "namePlaceholder": "Nama Anda",
+        "emailPlaceholder": "nama@contoh.com",
+        "messagePlaceholder": "Halo Henry, saya butuh website untuk..."
+    }
+}

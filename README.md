@@ -1,6 +1,6 @@
 # Digifolio (AbdeePasha Portfolio)
 
-A modern, high-performance portfolio website built with **Next.js 16**, **React 19**, and **Tailwind CSS 4**. Designed with a minimalist aesthetic and interactive elements.
+A modern, high-performance portfolio website built with **Next.js 16**, **React 19**, and **Tailwind CSS 4**. Designed with a minimalist and interactive elements.
 
 ## 🚀 Tech Stack
 

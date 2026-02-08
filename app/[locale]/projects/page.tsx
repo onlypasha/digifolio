@@ -10,7 +10,7 @@ export default function Projects() {
         {
             id: 1,
             title: "Digital Portofolio",
-            category: "Web App",
+            category: "Portofolio",
             descriptionKey: "project1Desc",
             image: "/images/digifolio.png",
             externallinks: "https://github.com/onlypasha/digifolio",

@@ -125,7 +125,7 @@ export default function Home() {
               <div className="flex-1">
                 <h3 className="font-semibold text-lg text-white">{t('techStack')}</h3>
                 <div className="flex flex-wrap gap-2 mt-2">
-                  {['Next.js', 'Laravel', 'Flutter', 'Java', 'MySql', 'Sql Server'].map((tag) => (
+                  {['Laravel', 'Android', 'Entity Framework', 'MySql', 'Sql Server'].map((tag) => (
                     <span key={tag} className="text-[10px] uppercase font-bold px-2 py-1 rounded bg-white/5 border border-white/5 text-white/60">
                       {tag}
                     </span>

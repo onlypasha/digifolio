@@ -33,6 +33,15 @@ export default function Projects() {
             image: "/images/tormonitoruangkas.png",
             externallinks: "https://github.com/onlypasha/tormonitoruangkas",
             color: "from-blue-500/20 to-cyan-500/20"
+        },
+        {
+            id: 4,
+            title: "Digital Healthcare Appointment System with teleconsultation features",
+            category: "Web, Mobile App",
+            descriptionKey: "project4Desc",
+            image: "/images/blog.png",
+            externallinks: "https://github.com/onlypasha/Digital-Healthcare-Appointment-System",
+            color: "from-blue-500/20 to-cyan-500/20"
         }
     ];
 
